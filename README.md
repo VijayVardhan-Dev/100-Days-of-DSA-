@@ -16,6 +16,9 @@ My goal is to **build strong problem-solving skills** and **understand DSA deepl
 ---
 
 ## 🗂️ Repository Structure
+## 🗂️ Repository Structure
+
+<pre>
 DSA-Journey/
 │
 ├── README.md               → Overview of the project
@@ -36,8 +39,7 @@ DSA-Journey/
 │       └── ...
 │
 └── ...
-
-
+</pre>
 
 ---
 
