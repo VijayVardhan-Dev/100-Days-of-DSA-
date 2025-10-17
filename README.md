@@ -18,21 +18,25 @@ My goal is to **build strong problem-solving skills** and **understand DSA deepl
 ## 🗂️ Repository Structure
 DSA-Journey/
 │
-├── README.md → Overview of the project
-├── progress_log.md → Weekly learning log
+├── README.md               → Overview of the project
+├── progress_log.md         → Weekly learning log
+│
 ├── Arrays/
-│ ├── notes.md
-│ └── problems/
-│ ├── problem1.py
-│ ├── problem2.py
-│ └── ...
+│   ├── notes.md
+│   └── problems/
+│       ├── problem1.py
+│       ├── problem2.py
+│       └── ...
+│
 ├── LinkedList/
-│ ├── notes.md
-│ └── problems/
-│ ├── reverse_list.py
-│ ├── detect_loop.py
-│ └── ...
+│   ├── notes.md
+│   └── problems/
+│       ├── reverse_list.py
+│       ├── detect_loop.py
+│       └── ...
+│
 └── ...
+
 
 
 ---
