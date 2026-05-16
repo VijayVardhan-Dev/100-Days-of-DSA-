@@ -85,4 +85,4 @@ Check out my weekly updates here 👉 [progress_log.md](./progress_log.md)
 
 ## 🤝 Connect
 If you’re also learning DSA, feel free to connect and share ideas!  
-📩 GitHub: [@VijayVardhan](https://github.com/VijayVardhan)
+📩 GitHub: [@VijayVardhan](https://github.com/VijayVardhan-Dev)
