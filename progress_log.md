@@ -17,4 +17,5 @@ format of my weekly updates.
 - **Focus Topic:** Arrays
 - **Today’s Progress:** Started solving basic array problems.
 - **Problem Practiced:** Number of Days Above Average
+                      ** Missing Number
 - **Status:** ✅
