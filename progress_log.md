@@ -1,6 +1,6 @@
 # 🧾 DSA Progress Log
 
-format of my weekly updates quickly.
+format of my weekly updates.
 
 ---
 
