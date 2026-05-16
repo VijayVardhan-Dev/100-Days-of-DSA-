@@ -16,6 +16,5 @@ format of my weekly updates.
 ## Week of 2026-05-16
 - **Focus Topic:** Arrays
 - **Today’s Progress:** Started solving basic array problems.
-- **Problem Practiced:** Number of Days Above Average
-                      ** Missing Number
+- **Problem Practiced:** Number of Days Above Average,Missing Number
 - **Status:** ✅
