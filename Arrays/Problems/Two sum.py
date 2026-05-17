@@ -34,3 +34,18 @@ for i in list1:
     processed.add(i)
 
 print(list(final))
+
+
+#leetcode version to return first pair indexes
+
+n = int(input("Enter your Target: "))
+list1 = [2,7,3,6,7]
+processed = {}
+final = []
+for i,num in enumerate(list1):
+    if n-num in processed:
+        final.append([processed[n-num],i])  #to add into set need to convert list into tuple
+        break
+    processed[num] = i 
+
+print(list(final))
