@@ -13,6 +13,22 @@ format of my weekly updates.
 
 ---
 
+## Week of 2026-05-19
+- **Focus Topic:** Arrays
+- **Today’s Progress:** Started submitting problem solutions in leetcode
+- **Problem Practiced:** solved leetcode daily challange on leetcode least common number
+- **Status:** ✅
+
+---
+
+## Week of 2026-05-17
+- **Focus Topic:** Arrays
+- **Today’s Progress:** Started submitting problem solutions in leetcode
+- **Problem Practiced:** solved Two sum problem in three different approches
+- **Status:** ✅
+
+---
+
 ## Week of 2026-05-16
 - **Focus Topic:** Arrays
 - **Today’s Progress:** Started solving basic array problems.
