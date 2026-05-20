@@ -1,4 +1,5 @@
-
+#Date: 20/05/2026
+# Today i was able to solve medium level problem on leetcode even tough it is bruteforce approach but i will improve it...
 
 A = [1,3,2,4]
 B = [3,1,2,4]
