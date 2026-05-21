@@ -1,10 +1,8 @@
-
+#date: 21/05/2026
+#todays daily leetcode challange is completed 
 
 arr1 = [13,27,45]
 arr2 = [21,27,48]
-
-
-
 set1 = set()
 length = 0
 
