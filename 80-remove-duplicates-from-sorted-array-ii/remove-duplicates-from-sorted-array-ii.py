@@ -1,17 +1,11 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        seen = {}
-        i = 0
-        while i < len(nums):
-            if nums[i] not in seen:
-                seen[nums[i]] = 1
-                i += 1
-            elif seen[nums[i]] < 2:     
-                seen[nums[i]] += 1
-                i += 1
-            else:
-                nums.pop(i) 
-        return len(nums)
-            
+        N = len(nums)
+        k = 2
+        for i in range(2,N):
+            if nums[k - 2] != nums[i]:
+                nums[k] = nums[i]
+                k += 1
+        return k
             
         
