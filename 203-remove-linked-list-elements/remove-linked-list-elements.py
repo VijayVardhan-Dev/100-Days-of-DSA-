@@ -11,12 +11,12 @@ class Solution:
                 if head == curr:
                     head = head.next
                     curr = curr.next
-                else:
-                    curr = curr.next
+                
             elif curr.next and curr.next.val == val:
                 curr.next = curr.next.next
+                
+
             else:
                 curr = curr.next
-                
         return head
         
